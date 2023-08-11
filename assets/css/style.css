@@ -1,0 +1,60 @@
+@import url("https://fonts.googleapis.com/css?family=Ubuntu");
+
+body{
+    font-family: 'Ubuntu';
+    margin: 0;
+    text-align: center;
+    color: #fff;
+    background-image: linear-gradient(90deg, #4158D0 0%, #C850C0 46%, #FFCC70 100%);
+
+}
+
+h1 {
+    margin: 0;
+    padding-bottom: 1rem;
+    grid-column: 1;
+    grid-row: 1;
+    z-index: 1;
+    font-family: 'Teko', sans-serif;
+    font-size: 7rem;
+    text-transform: uppercase;
+    animation: glow 2s ease-in-out infinite alternate;
+    text-align: center;
+  }
+
+.keys{
+    margin: 0 auto;
+    max-width: 600px;
+    overflow: hidden;
+    cursor: pointer;
+}
+
+.key{
+    width: 160px;
+    height: 160px;
+    float: left;
+    transition: all 0.07s;
+    border-radius: 5px;
+    background-color: #673ab7;
+    margin: 20px;
+}
+
+kbd{
+    display: block;
+    padding-top: 30px;
+    font-size: 60px;
+    color: #ffc107;
+}
+
+.playing{
+    box-shadow: 0 0 30px 0 rgba(255, 255, 255, 0.3);
+}
+
+@keyframes glow {
+    from {
+      text-shadow: 0 0 20px #2d9da9;
+    }
+    to {
+      text-shadow: 0 0 30px #34b3c1, 0 0 10px #4dbbc7;
+    }
+}
