@@ -3,7 +3,8 @@
   ![GitHub repo size](https://img.shields.io/github/repo-size/eullerg/SoundPad)
   ![GitHub stars](https://img.shields.io/github/stars/eullerg/SoundPad)
   ![GitHub forks](https://img.shields.io/github/forks/eullerg/SoundPad)
-  [![Mastodon Follow](https://img.shields.io/mastodon/follow/DevInsider)](https://mastodon.social/intent/DevInsider)
+  ![Mastodon Follow](https://img.shields.io/mastodon/follow/110913095554798781)
+
 
   <br />
   <br />
