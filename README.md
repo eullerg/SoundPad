@@ -23,7 +23,7 @@ You can <strong> access the source code of the initial project </strong> or <str
 
 ### 🛠️ Open & Run SoundPad
 
-To run **SoundPad**, just click in the link **link** or download the repository and open the file <strong> index.html </strong>
+To run **SoundPad**, just click in the link **https://soundpad-nu.vercel.app/** or download the repository and open the file <strong> index.html </strong>
 
 
 ### Contact
